@@ -24,3 +24,4 @@ streamlit.dataframe(fruits_to_show)
 # New Section to display fruitvice api response
 streamlit.header("Fruityvice Fruit Advice!")
 
+import requests
